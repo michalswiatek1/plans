@@ -1,0 +1,2 @@
+Plan dnia:
+- kurs 
