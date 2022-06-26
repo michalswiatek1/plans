@@ -1,2 +1,2 @@
 Plan dnia:
-- []kurs 
+- [x]kurs 
