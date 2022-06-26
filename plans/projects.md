@@ -1,4 +1,4 @@
 zmiany
 Wprowadzam jakieś zmiany.
-- [] coś 
+- [x] coś 
 - 
